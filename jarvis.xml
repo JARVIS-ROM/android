@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="jarvis"
+           fetch="https://github.com/JARVIS-ROM/"
+           revision="android-12" />
+
+  <remote  name="jarvis-ssh"
+           fetch="ssh://git@github.com/JARVIS-ROM/"
+           revision="android-12" />
+
+  <include name="remove.xml" />
+
+  <project path="build/make" name="android_build_make" remote="jarvis-ssh" groups="pdk" >
+    <copyfile src="core/root.mk" dest="Makefile" />
+    <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
+    <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
+    <linkfile src="core" dest="build/core" />
+    <linkfile src="envsetup.sh" dest="build/envsetup.sh" />
+    <linkfile src="target" dest="build/target" />
+    <linkfile src="tools" dest="build/tools" />
+  </project>
+
+</manifest>
