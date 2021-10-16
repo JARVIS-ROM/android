@@ -21,4 +21,9 @@
     <linkfile src="tools" dest="build/tools" />
   </project>
 
+  <project path="build/soong" name="android_build_soong" remote="jarvis-ssh" groups="pdk,tradefed" >
+    <linkfile src="root.bp" dest="Android.bp" />
+    <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
+  </project>
+
 </manifest>

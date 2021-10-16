@@ -2,5 +2,6 @@
 <manifest>
 
   <remove-project name="platform/build" />
+  <remove-project name="platform/build/soong" />
 
 </manifest>
