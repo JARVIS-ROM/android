@@ -26,4 +26,6 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
 
+  <include name="lineage.xml" />
+
 </manifest>
