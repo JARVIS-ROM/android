@@ -26,6 +26,8 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
 
+  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="jarvis-ssh" groups="pdk-fs" />
+
   <include name="lineage.xml" />
 
 </manifest>
