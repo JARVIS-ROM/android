@@ -27,6 +27,7 @@
   </project>
 
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="jarvis-ssh" groups="pdk-fs" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="jarvis-ssh" groups="pdk-cw-fs,pdk-fs" />
 
   <include name="lineage.xml" />
 

@@ -4,5 +4,6 @@
   <remove-project name="platform/build" />
   <remove-project name="platform/build/soong" />
   <remove-project name="platform/packages/apps/Settings" />
+  <remove-project name="platform/frameworks/base" />
 
 </manifest>
