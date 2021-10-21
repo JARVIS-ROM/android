@@ -8,5 +8,6 @@
   <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" revision="lineage-18.1" remote="lineage" />
   <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" revision="lineage-18.1" remote="lineage" />
   <project path="prebuilts/tools-jarvis" name="android_prebuilts_tools-lineage" clone-depth="1" revision="lineage-18.1" remote="lineage" />
+  <project path="tools/extract-utils" name="android_tools_extract-utils" revision="lineage-18.1" remote="lineage" />
 
 </manifest>
