@@ -9,5 +9,6 @@
   <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" revision="lineage-18.1" remote="lineage" />
   <project path="prebuilts/tools-jarvis" name="android_prebuilts_tools-lineage" clone-depth="1" revision="lineage-18.1" remote="lineage" />
   <project path="tools/extract-utils" name="android_tools_extract-utils" revision="lineage-18.1" remote="lineage" />
+  <project path="packages/resources/devicesettings" name="android_packages_resources_devicesettings" revision="lineage-18.1" remote="lineage" />
 
 </manifest>
