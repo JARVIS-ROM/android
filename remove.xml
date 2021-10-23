@@ -6,5 +6,5 @@
   <remove-project name="platform/packages/apps/Settings" />
   <remove-project name="platform/frameworks/base" />
   <remove-project name="platform/system/core" />
-
+  <remove-project name="platform/packages/apps/QuickSearchBox" />
 </manifest>
