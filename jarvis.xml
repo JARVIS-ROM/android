@@ -31,6 +31,7 @@
   <project path="system/core" name="android_system_core" remote="jarvis-ssh" groups="pdk" />
   <project path="vendor/jarvis" name="android_vendor_jarvis" remote="jarvis-ssh" />
   <project path="packages/apps/Updater" name="android_packages_apps_Updater" remote="jarvis-ssh" />
+  <project path="vendor/support" name="android_vendor_support" remote="jarvis-ssh" />
 
   <include name="lineage.xml" />
 
