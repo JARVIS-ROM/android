@@ -7,4 +7,5 @@
   <remove-project name="platform/frameworks/base" />
   <remove-project name="platform/system/core" />
   <remove-project name="platform/packages/apps/QuickSearchBox" />
+  <remove-project name="platform/packages/apps/DeskClock" />
 </manifest>
