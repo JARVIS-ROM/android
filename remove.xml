@@ -8,4 +8,6 @@
   <remove-project name="platform/system/core" />
   <remove-project name="platform/packages/apps/QuickSearchBox" />
   <remove-project name="platform/packages/apps/DeskClock" />
+  <remove-project name="platform/packages/apps/SettingsIntelligence" />
+  <remove-project name="platform/packages/services/Telephony" />
 </manifest>
