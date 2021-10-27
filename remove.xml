@@ -10,4 +10,5 @@
   <remove-project name="platform/packages/apps/DeskClock" />
   <remove-project name="platform/packages/apps/SettingsIntelligence" />
   <remove-project name="platform/packages/services/Telephony" />
+  <remove-project name="platform/system/update_engine" />
 </manifest>
