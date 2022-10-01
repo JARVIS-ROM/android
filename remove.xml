@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remove-project name="platform/bionic" />
+
+  <!-- build -->
+  <remove-project name="platform/build" />
+  <remove-project name="platform/build/soong" />
+
+  <!-- device -->
+  <remove-project name="device/google/barbet" />
+  <remove-project name="device/google/barbet-sepolicy" />
+  <remove-project name="device/google/bluejay" />
+  <remove-project name="device/google/bluejay-sepolicy" />
+  <remove-project name="device/google/bluejay-kernel" />
+  <remove-project name="device/google/bramble" />
+  <remove-project name="device/google/bramble-sepolicy" />
+  <remove-project name="device/google/contexthub" />
+  <remove-project name="device/google/coral" />
+  <remove-project name="device/google/coral-kernel" />
+  <remove-project name="device/google/coral-sepolicy" />
+  <remove-project name="device/google/gs101" />
+  <remove-project name="device/google/gs101-sepolicy" />
+  <remove-project name="device/google/gs-common" />
+  <remove-project name="device/google/raviole" />
+  <remove-project name="device/google/raviole-kernel" />
+  <remove-project name="device/google/redbull" />
+  <remove-project name="device/google/redbull-kernel" />
+  <remove-project name="device/google/redbull-sepolicy" />
+  <remove-project name="device/google/redfin" />
+  <remove-project name="device/google/redfin-sepolicy" />
+  <remove-project name="device/google/sunfish" />
+  <remove-project name="device/google/sunfish-kernel" />
+  <remove-project name="device/google/sunfish-sepolicy" />
+
+  <!-- external -->
+  <remove-project name="platform/external/tinycompress" />
+
+  <!-- frameworks -->
+  <remove-project name="platform/frameworks/av" />
+  <remove-project name="platform/frameworks/base" />
+  <remove-project name="platform/frameworks/native" />
+
+  <!-- hardware -->
+  <remove-project name="platform/hardware/libhardware" />
+  <remove-project name="platform/hardware/qcom/wlan" />
+  <remove-project name="platform/hardware/interfaces" />
+  <remove-project name="platform/hardware/qcom/sm8150/media" />
+  <remove-project name="platform/hardware/qcom/sm8150/display" />
+
+  <!-- packages -->
+  <remove-project name="platform/packages/apps/Settings" />
+  <remove-project name="platform/packages/apps/SettingsIntelligence" />
+  <remove-project name="platform/packages/services/Telephony" />
+  <remove-project name="platform/packages/services/Telecomm" />
+  <remove-project name="platform/packages/apps/Camera2" />
+
+  <!-- system -->
+  <remove-project name="platform/system/core" />
+  <remove-project name="platform/system/extras" />
+  <remove-project name="platform/system/media" />
+  <remove-project name="platform/system/tools/mkbootimg" />
+  <remove-project name="platform/system/security" />
+  <remove-project name="platform/system/vold" />
+  <remove-project name="platform/system/sepolicy" />
+  <remove-project name="platform/system/update_engine" />
+
+</manifest>
