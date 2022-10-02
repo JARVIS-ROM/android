@@ -54,6 +54,7 @@
   <remove-project name="platform/packages/services/Telephony" />
   <remove-project name="platform/packages/services/Telecomm" />
   <remove-project name="platform/packages/apps/Camera2" />
+  <remove-project name="platform/packages/apps/ThemePicker" />
 
   <!-- system -->
   <remove-project name="platform/system/core" />
