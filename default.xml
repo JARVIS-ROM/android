@@ -6,6 +6,9 @@
            review="https://android-review.googlesource.com/" />
   <default revision="refs/tags/android-13.0.0_r8"
            remote="aosp"
+           sync-c="true"
+           sync-d="true"
+           sync-tags="false"
            sync-j="4" />
 
   <superproject name="platform/superproject" remote="aosp" revision="android-13.0.0_r8" />
