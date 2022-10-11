@@ -30,6 +30,8 @@
   <project path="device/jarvis/sepolicy" name="android_device_jarvis_sepolicy" remote="jarvis" />
 
   <project path="external/tinycompress" name="android_external_tinycompress" remote="jarvis" />
+  <project path="external/gptfdisk" name="android_external_gptfdisk" remote="jarvis" />
+  <project path="external/mksh" name="android_external_mksh" remote="jarvis" />
 
   <project path="frameworks/av" name="android_frameworks_av" remote="jarvis" />
   <project path="frameworks/base" name="android_frameworks_base" remote="jarvis" />

@@ -35,6 +35,8 @@
 
   <!-- external -->
   <remove-project name="platform/external/tinycompress" />
+  <remove-project name="platform/external/gptfdisk" />
+  <remove-project name="platform/external/mksh" />
 
   <!-- frameworks -->
   <remove-project name="platform/frameworks/av" />
