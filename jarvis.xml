@@ -23,6 +23,7 @@
   </project>
 
   <project path="bionic" name="android_bionic" groups="pdk" remote="jarvis" />
+  <project path="bootable/recovery" name="android_bootable_recovery" groups="pdk" remote="jarvis" />
 
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="jarvis" />
   <project path="hardware/interfaces" name="android_hardware_interfaces" remote="jarvis" />
