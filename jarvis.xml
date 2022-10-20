@@ -22,6 +22,8 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
 
+  <project path="art" name="android_art" remote="jarvis" />
+
   <project path="bionic" name="android_bionic" groups="pdk" remote="jarvis" />
   <project path="bootable/recovery" name="android_bootable_recovery" groups="pdk" remote="jarvis" />
 
