@@ -58,7 +58,6 @@
   <remove-project name="platform/packages/apps/SettingsIntelligence" />
   <remove-project name="platform/packages/services/Telephony" />
   <remove-project name="platform/packages/services/Telecomm" />
-  <remove-project name="platform/packages/apps/Camera2" />
   <remove-project name="platform/packages/apps/ThemePicker" />
   <remove-project name="platform/packages/apps/Dialer" />
   <remove-project name="platform/packages/apps/Launcher3" />
