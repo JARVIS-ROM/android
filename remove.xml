@@ -67,6 +67,7 @@
   <remove-project name="platform/packages/apps/ThemePicker" />
   <remove-project name="platform/packages/apps/Dialer" />
   <remove-project name="platform/packages/apps/Launcher3" />
+  <remove-project name="platform/packages/modules/Permission" />
 
   <!-- system -->
   <remove-project name="platform/system/core" />
