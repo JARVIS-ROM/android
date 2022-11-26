@@ -33,6 +33,8 @@
   <project path="external/ant-wireless/ant_service" name="android_external_ant-wireless_ant_service" groups="qcom,sdm660" remote="lineage"  />
   <project path="external/ant-wireless/hidl" name="android_external_ant-wireless_hidl" groups="qcom,qssi" remote="lineage"  />
 
+  <project path="packages/apps/Etar" name="android_packages_apps_Etar" remote="lineage" />
+
   <project path="hardware/qcom-caf/sm8150/audio" name="android_hardware_qcom_audio" groups="qcom,msmnile" revision="lineage-20.0-caf-sm8150" remote="lineage" />
   <project path="hardware/qcom-caf/sm8150/display" name="android_hardware_qcom_display" groups="qcom" revision="lineage-20.0-caf-sm8150" remote="lineage" />
   <project path="hardware/qcom-caf/sm8150/media" name="android_hardware_qcom_media" groups="qcom,msmnile" revision="lineage-20.0-caf-sm8150" remote="lineage" />

@@ -40,6 +40,7 @@
   <project path="frameworks/av" name="android_frameworks_av" remote="jarvis" />
   <project path="frameworks/base" name="android_frameworks_base" remote="jarvis" />
   <project path="frameworks/native" name="android_frameworks_native" remote="jarvis" />
+  <project path="frameworks/opt/calendar" name="android_frameworks_opt_calendar" remote="jarvis" />
 
   <project path="packages/apps/SimpleDeviceConfig" name="android_packages_apps_SimpleDeviceConfig" remote="jarvis" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="jarvis" />
