@@ -72,6 +72,7 @@
   <remove-project name="platform/packages/apps/Calendar" />
   <remove-project name="platform/packages/inputmethods/LatinIME" />
   <remove-project name="platform/packages/apps/Messaging" />
+  <remove-project name="platform/packages/modules/Connectivity" />
 
   <!-- system -->
   <remove-project name="platform/system/core" />
